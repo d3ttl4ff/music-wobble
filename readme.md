@@ -4,8 +4,9 @@ This project is a music visualizer that uses the Web Audio API to create a wobbl
 
 Live: [https://music-wobble.vercel.app](https://music-wobble.vercel.app/#debug)
 
-[!WARNING] To tweak the settings, use the `#debug` query parameter. 
-https://music-wobble.vercel.app/#debug
+> [!NOTE] TWEAKING
+> To tweak the settings, use the `#debug` query parameter. 
+> https://music-wobble.vercel.app/#debug
 
 ## Setup
 
