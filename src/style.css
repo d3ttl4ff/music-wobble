@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Blender Pro';
+  src: url('../static/fonts/BlenderPro-Medium.woff2') format('woff2');
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -31,4 +36,19 @@ body {
 
 .text {
   position: absolute;
+}
+
+.subtitle {
+  position: absolute;
+  font-family: 'Blender Pro';
+  top: 70px;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #009d83;
+  z-index: 1;
+}
+
+.play {
+  color: #ff3700;
 }
