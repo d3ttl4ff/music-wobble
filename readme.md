@@ -2,7 +2,7 @@
 
 This project is a music visualizer that uses the Web Audio API to create a wobbly sphere that reacts to the music. The sphere is created using `Three.js` and the wobble effect is achieved by using a `Custom Shader Material (CSM)`.
 
-Live: [https://music-wobble.vercel.app](https://music-wobble.vercel.app/#debug)
+Live: [Music Wobble](https://music-wobble.vercel.app/#debug)
 
 > [!NOTE]
 > To tweak the settings, use the `#debug` query parameter. 
